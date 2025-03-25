@@ -1,0 +1,34 @@
+html {
+    background-color: silver;
+}
+
+h1 {
+    text-align: center;
+    font-family: boldonse, sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 35px
+}
+
+#here {
+    background-color: coral;
+    color: white;
+    font-family: boldonse, sans-serif;
+    font-weight: 200;
+    font-size: 20px
+}
+
+#laptop {
+    width: 150px;
+}
+
+#web {
+    font-family: boldonse;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.links {
+    font-family: boldonse;
+    font-size: 15px;
+}
